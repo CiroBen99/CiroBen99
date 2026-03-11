@@ -1,5 +1,5 @@
 # 👨🏼‍💻 About Me:
-🌱 Junior Data Scientist<br>🔭 I am deeply passionate about neural networks and deep learning, and I am currently developing my skills and knowledge in this exciting field. <br>💬 Open to collaborations!
+🌱 PhD Student <br>🔭 I am deeply passionate about neural networks and deep learning, and I am currently developing my skills and knowledge in this exciting field. <br>💬 Open to collaborations!
 
 
 # 💻 Tech Stack:
